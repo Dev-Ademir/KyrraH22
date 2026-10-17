@@ -46,7 +46,7 @@ Muito conhecido também por:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Dev-Ademir&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Dev-Ademir&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&theme=shadow_green" alt="GitHub Stats"/>
   <br><br>
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dev-Ademir&layout=compact&langs_count=7&theme=dracula" alt="Top Languages"/>
 </div>
